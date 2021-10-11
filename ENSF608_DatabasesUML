@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-11T22:43:30.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="kq6YhsQjkNju0ZF2B5VC" version="15.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-11T22:46:56.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="ZQbzWQEz8SHDmbIN0ge1" version="15.4.3" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2272" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -324,8 +324,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="kzlg2KK6aPZEg4co2MIn" name="Lab2_p2">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+  <diagram id="kzlg2KK6aPZEg4co2MIn" name="Lab2_p1">
+    <mxGraphModel dx="1673" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="uW1gxyHvYXWCDfYKvebv-0" />
         <mxCell id="uW1gxyHvYXWCDfYKvebv-1" parent="uW1gxyHvYXWCDfYKvebv-0" />
@@ -698,6 +698,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kTbE03Z7ay0yhaS13sCY" name="lab2_p2">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="6QTDNgvkSvkWDx-CDGLz-0" />
+        <mxCell id="6QTDNgvkSvkWDx-CDGLz-1" parent="6QTDNgvkSvkWDx-CDGLz-0" />
       </root>
     </mxGraphModel>
   </diagram>
